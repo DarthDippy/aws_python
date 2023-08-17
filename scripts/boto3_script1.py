@@ -1,4 +1,4 @@
-from lib import get_profile_role, get_session
+from commonlib import get_profile_role, get_session
 
 
 if __name__ == "__main__":
